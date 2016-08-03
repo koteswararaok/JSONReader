@@ -1,0 +1,21 @@
+{
+	"bool" : true,
+	"intNumber" : 1,
+	"doubleNumber" : 2.3,
+	"str" : "teststr",
+	"nullObj" : null,
+	"list" : [["2", "strlist"], ["3"]],
+	"objList" : [
+	        {
+	            "a" : 2
+	        },
+	        {
+	            "a" : 3
+	        }
+	],
+	"innerTest" : {
+	    "a" : 1
+	},
+	"crazyTest" : [[{"a":1},{"a":2}],[{"a":3}]],
+	"crazyInner" : {"inner" : {"a" : 1}, "b" : 2}
+}
